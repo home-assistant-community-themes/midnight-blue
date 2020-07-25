@@ -21,6 +21,8 @@ midnight_blue:
   label-badge-text-color: "var(--primary-text-color)"
   label-badge-yellow: "#f4b400"
   light-primary-color: "var(--accent-color)"
+  markdown-code-background-color: '#363941'  
+  ha-card-background: "#434954"              
   paper-card-background-color: "#434954"
   paper-card-header-color: "var(--accent-color)"
   paper-dialog-background-color: "#434954"
